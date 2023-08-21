@@ -12,7 +12,7 @@ Gym Website Catalogue is a basic web design project showcasing a sample layout f
 
 ## Preview
 
-To preview the Gym Website Catalogue, you can visit the following link: [Live Demo](https://your-username.github.io/gym-website-catalogue/)
+To preview the Gym Website Catalogue, you can visit the following link: [Live Demo](https://Nothing00980.github.io/gymwebcatalogue/)
 
 ## Getting Started
 
